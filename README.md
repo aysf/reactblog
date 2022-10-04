@@ -13,3 +13,5 @@ Practicing create a React app
 
 - ✅ creating react app using command `yarn create react-app appName`
 - ✅ Dynamic values in template
+- ✅ `margin-left: auto` for creating navbar menu
+- ✅ click-event
